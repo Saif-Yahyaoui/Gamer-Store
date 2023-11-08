@@ -1,0 +1,16 @@
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/dmc5.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/fifa.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/minecraft.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/nfs.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/rdr2.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/assets/images/re8.jpg
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Saif/Downloads/flutter_workshops2324-s1/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
