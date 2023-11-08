@@ -8,10 +8,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  MaterialApp(
+    return MaterialApp(
       initialRoute: '/Home',
       onGenerateRoute: RouteGenerator.generateRoute,
-      title: "G Store ESPRIT",
+      title: "Gamer Store ESPRIT",
     );
   }
 }
