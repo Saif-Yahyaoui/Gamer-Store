@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_gstore_4sim1/gamedata.dart';
 
+// ignore: must_be_immutable
 class GameInfo extends StatelessWidget {
   GameData game;
 
