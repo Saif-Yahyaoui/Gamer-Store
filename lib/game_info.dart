@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_gstore_4sim1/gamedata.dart';
+import 'package:flutter_gstore_4sim1/games_details.dart';
 
-// ignore: must_be_immutable
 class GameInfo extends StatelessWidget {
   GameData game;
 
@@ -14,11 +14,14 @@ class GameInfo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 140,
-      child: InkWell(
-        onTap: () =>
-            Navigator.pushNamed(context, "/GameDetails", arguments: game),
-        child: Card(
+      height: 180,
+      child: Card(
+        child: InkWell(
+          onTap: () {
+            Navigator.push(context, MaterialPageRoute(builder: (context) {
+              return GamesDetails(game: game);
+            }));
+          },
           child: Row(children: [
             Container(
               margin: const EdgeInsets.fromLTRB(10, 10, 20, 10),
