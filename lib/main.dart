@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Game Store",
+      title: "Gamer Store",
       // home: Signup()
       routes: {
         "/": (context) => const Signin(),

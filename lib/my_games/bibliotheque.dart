@@ -14,7 +14,6 @@ class _BibliothequeState extends State<Bibliotheque> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     games.add(GameData(
         title: "Devil My Cry 5",

@@ -20,12 +20,12 @@ class _NavigationBottomState extends State<NavigationBottom> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Game STORE")),
+      appBar: AppBar(title: const Text("Gamer STORE")),
       drawer: Drawer(
         child: Column(
           children: [
             AppBar(
-              title: const Text("Game Store"),
+              title: const Text("Gamer Store"),
               automaticallyImplyLeading: false,
             ),
             ListTile(
@@ -50,9 +50,9 @@ class _NavigationBottomState extends State<NavigationBottom> {
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: "Store"),
           BottomNavigationBarItem(
-              icon: Icon(Icons.book), label: "Library"),
+              icon: Icon(Icons.library_books), label: "Library"),
           BottomNavigationBarItem(
-              icon: Icon(Icons.shopping_basket_rounded), label: "Basket"),
+              icon: Icon(Icons.shopping_bag_outlined), label: "Basket"),
         ],
         currentIndex: current_index,
         onTap: (value) {
